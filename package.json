@@ -1,14 +1,25 @@
 {
   "name": "sanity-check",
   "version": "1.0.0",
-  "description": "",
+  "description": "Adding sanity checks and alerts to your application made easy",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "scripts": {},
+  "keywords": [
+    "sanity",
+    "sanity check",
+    "sanity-check",
+    "sanitycheck",
+    "sanity-checks",
+    "sanitychecks",
+    "sanity-checker",
+    "alerts",
+    "alert",
+    "alerting",
+    "monitor",
+    "monitoring"
+  ],
+  "author": "Elmedin Turkeš <https://github.com/ElmTheDev>",
+  "license": "MIT",
   "dependencies": {
     "@slack/webhook": "^6.1.0",
     "discord.js": "^14.7.1",
