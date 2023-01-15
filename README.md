@@ -7,7 +7,7 @@
 To install this module you can just use
 
 ```sh
-$ npm i sanity-check
+$ npm i node-sanity-check
 ```
 
 ## Example

@@ -1,5 +1,5 @@
 {
-  "name": "sanity-check",
+  "name": "node-sanity-check",
   "version": "1.0.0",
   "description": "Adding sanity checks and alerts to your application made easy",
   "main": "index.js",
